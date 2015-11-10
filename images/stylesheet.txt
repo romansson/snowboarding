@@ -1,0 +1,35 @@
+.sprite {
+    background-image: url(spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.sprite-bag-icon {
+    width: 14px;
+    height: 16px;
+    background-position: -5px -5px;
+}
+
+.sprite-banner-icon {
+    width: 14px;
+    height: 10px;
+    background-position: -29px -5px;
+}
+
+.sprite-logo-icon {
+    width: 74px;
+    height: 56px;
+    background-position: -53px -5px;
+}
+
+.sprite-network-icon {
+    width: 218px;
+    height: 17px;
+    background-position: -5px -71px;
+}
+
+.sprite-search-icon {
+    width: 15px;
+    height: 13px;
+    background-position: -137px -5px;
+}
